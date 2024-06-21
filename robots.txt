@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://golkir.github.io/al-folio/sitemap.xml
+Sitemap: https://golkir.github.io/sitemap.xml
